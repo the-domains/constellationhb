@@ -1,6 +1,6 @@
 name: ConstellationHB
 favicon: null
-layout_spectrum: 0.6874303254298866
+layout_spectrum: 0.50698
 typography_spectrum: 0.63829
 title: Constellation HomeBuilder Systems
 cta:
@@ -22,8 +22,8 @@ color:
     - '#231f20'
     - '#000000'
     - '#0000ff'
-  brandStrength: 0.75
-  lightness: 0.00002665957435965538
-  saturation: 0.4017974934540689
-  rhythmicContrast: 0.9896980626508594
+  brandStrength: 0.1875
+  lightness: 0.8125
+  saturation: 1
+  rhythmicContrast: 0.25
 purpose: []
