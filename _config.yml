@@ -13,16 +13,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 1
-  brandStrength: 0.1875
-  lightness: 0.8125
+  saturation: 0.158516
+  brandStrength: 1
+  lightness: 0.7394603
   brandColors:
     - '#004B91'
     - '#FFFFFF'
     - '#010101'
     - '#999999'
     - '#CFCFCF'
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.2217538
 cta:
   bucket: null
   version: null
@@ -31,8 +31,8 @@ analytics:
   twitter: null
   google: UA-2328547-15
   facebook: null
-name: ConstellationHB
 favicon: null
+name: ConstellationHB
 opengraph:
   image: null
   type: null
