@@ -1,29 +1,41 @@
-name: ConstellationHB
-favicon: null
-layout_spectrum: 0.50698
-typography_spectrum: 0.63829
 title: Constellation HomeBuilder Systems
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 0.1875
+  lightness: 0.8125
+  brandColors:
+    - '#004B91'
+    - '#FFFFFF'
+    - '#010101'
+    - '#999999'
+    - '#CFCFCF'
+  rhythmicContrast: 0.25
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: UA-2328547-15
   facebook: null
-  twitter: null
+name: ConstellationHB
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#004794'
-    - '#ffd659'
-    - '#231f20'
-    - '#000000'
-    - '#0000ff'
-  brandStrength: 0.1875
-  lightness: 0.8125
-  saturation: 1
-  rhythmicContrast: 0.25
-purpose: []
+typography_spectrum: 0.63829
+layout_spectrum: 0.50698
